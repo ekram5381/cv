@@ -1,0 +1,20 @@
+body{
+    background-color: peachpuff;
+}
+hr{
+    background-color: peachpuff;
+    border-style: dotted none none;
+    height: 0px;
+    width: 10%;
+    border-width: 5px;
+    color: tomato;
+}
+h1{
+    color: brown;
+}
+h3{
+    color: brown;
+}
+h2{
+    color: brown;
+}
